@@ -1,0 +1,18 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Welcome to Performance Austin Texas'
+tagline:          'Look at all of our dashboards and performance metrics'
+description:      ''
+url:            https://cityofaustin.github.io/PerformanceATX/
+
+author:
+  name:           ''
+  url:            ''
+
+# Custom vars
+version:          0.0.0
+
+github:
+  repo:           https://github.com/cityofaustin/performanceatx
