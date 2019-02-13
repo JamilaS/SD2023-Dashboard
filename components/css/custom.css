@@ -138,14 +138,11 @@ html {
 
 .jumbotron {
     background-image: url(../images/SD23-Dashboard-Banner.png);
-    
     background-repeat: no-repeat;
     color: #fff;
     background-color: #333;
     padding-top: 10%;
-    padding-bottom: 20%;
-    max-height: 300px; 
-        
+    padding-bottom: 20%;       
 }
 
 .jumbotron h2 {
